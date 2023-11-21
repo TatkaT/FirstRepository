@@ -1,0 +1,84 @@
+,name,genus,vore,order,conservation,sleep_total,sleep_rem,sleep_cycle,awake,brainwt,bodywt,HAGRID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Female maturity (days),Male maturity (days),Gestation/Incubation (days),Weaning (days),Litter/Clutch size,Litters/Clutches per year,Inter-litter/Interbirth interval,Birth weight (g),Weaning weight (g),Adult weight (g),Growth rate (1/days),Maximum longevity (yrs),Source,Specimen origin,Sample size,Data quality,IMR (per yr),MRDT (yrs),Metabolic rate (W),Body mass (g),Temperature (K),References
+0,cheetah,Acinonyx,carni,Carnivora,lc,12.1,,,11.9,,50.0,2106.0,Animalia,Chordata,Mammalia,Carnivora,Felidae,Acinonyx,jubatus,456.0,456.0,88.0,107.0,3.0,0.7,537.0,489.0,1940.0,53500.0,,20.5,671,captivity,large,high,,,61.77,38446.1,312.15,"36,420,434,455,610,671,680,817,1142"
+1,owl monkey,Aotus,omni,Primates,,17.0,1.8,,7.0,0.0155,0.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,mountain beaver,Aplodontia,herbi,Rodentia,nt,14.4,2.4,,9.6,,1.35,2841.0,Animalia,Chordata,Mammalia,Rodentia,Aplodontiidae,Aplodontia,rufa,730.0,730.0,29.0,56.0,2.75,1.0,365.0,25.5,393.0,1125.0,0.0288,,,unknown,small,low,,,1.892,706.8,311.15,"36,420,434,441,455,573,731,1136"
+3,greater short-tailed shrew,Blarina,omni,Soricomorpha,lc,14.9,2.3,0.133333333,9.1,0.00029,0.019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,cow,Bos,herbi,Artiodactyla,domesticated,4.0,0.7,0.666666667,20.0,0.423,600.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,three-toed sloth,Bradypus,herbi,Pilosa,,14.4,2.2,0.766666667,9.6,,3.85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,northern fur seal,Callorhinus,carni,Carnivora,vu,8.7,1.4,0.383333333,15.3,,20.49,2214.0,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Callorhinus,ursinus,1095.0,2007.0,240.0,107.0,1.3,0.9,365.0,5281.0,12925.0,165500.0,0.0007,,,unknown,small,low,,,,,,"1,434,441,443,455,610,671,676,680,731,817,1143"
+7,vesper mouse,Calomys,,Rodentia,,7.0,,,17.0,,0.045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,dog,Canis,carni,Carnivora,domesticated,10.1,2.9,0.333333333,13.9,0.07,14.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,roe deer,Capreolus,herbi,Artiodactyla,lc,3.0,,,21.0,0.0982,14.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,goat,Capri,herbi,Artiodactyla,lc,5.3,0.6,,18.7,0.115,33.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,guinea pig,Cavis,herbi,Rodentia,domesticated,9.4,0.8,0.216666667,14.6,0.0055,0.728,2858.0,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,porcellus,66.0,76.0,68.0,,3.8,5.0,96.0,85.0,,728.0,0.0106,12.0,"J. Veronica Kiklevich, pers. comm.",captivity,large,high,,,2.13,639.1,312.15,"36,272,380,381,420,434,455,610,731,776,966,978,1104,1334"
+12,grivet,Cercopithecus,omni,Primates,lc,10.0,0.7,,14.0,,4.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,chinchilla,Chinchilla,herbi,Rodentia,domesticated,12.5,1.5,0.116666667,11.5,0.0064,0.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,star-nosed mole,Condylura,omni,Soricomorpha,lc,10.3,2.2,,13.7,0.001,0.06,3236.0,Animalia,Chordata,Mammalia,Soricomorpha,Talpidae,Condylura,cristata,304.0,304.0,40.0,24.0,4.4,1.0,,1.5,30.0,55.3,,2.5,671,captivity,small,questionable,,,0.615,49.0,310.85,"36,420,455,538,542,610,671,678,978"
+15,african giant pouched rat,Cricetomys,omni,Rodentia,,8.3,2.0,,15.7,0.0066,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,lesser short-tailed shrew,Cryptotis,omni,Soricomorpha,lc,9.1,1.4,0.15,14.9,0.00014,0.005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,long-nosed armadillo,Dasypus,carni,Cingulata,lc,17.4,3.1,0.383333333,6.6,0.0108,3.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,tree hyrax,Dendrohyrax,herbi,Hyracoidea,lc,5.3,0.5,,18.7,0.0123,2.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,north american opossum,Didelphis,omni,Didelphimorphia,lc,18.0,4.9,0.333333333,6.0,0.0063,1.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,asian elephant,Elephas,herbi,Proboscidea,en,3.9,,,20.1,4.603,2547.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,big brown bat,Eptesicus,insecti,Chiroptera,lc,19.7,3.9,0.116666667,4.3,0.0003,0.023,2387.0,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,fuscus,547.0,730.0,35.0,,2.0,1.0,365.0,3.9,17.2,23.0,0.062,19.0,424,wild,medium,acceptable,,,0.113,13.3,309.15,"36,420,424,441,455,715,731,912,971,1136,1353,1354"
+22,horse,Equus,herbi,Perissodactyla,domesticated,2.9,0.6,1.0,21.1,0.655,521.0,2637.0,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,caballus,914.0,973.0,337.0,,1.0,1.0,548.0,38000.0,,300000.0,,57.0,"Richard Miller, pers. comm.",captivity,large,high,0.0002,4.0,,,311.45,"2,272,282,283,284,455,730,742,743,744,896,930,978,1015,1107,1109,1110,1111,1112,1136,1143,1241,1242,1389,1390"
+23,donkey,Equus,herbi,Perissodactyla,domesticated,3.1,0.4,,20.9,0.419,187.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,european hedgehog,Erinaceus,omni,Erinaceomorpha,lc,10.1,3.5,0.283333333,13.9,0.0035,0.77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,patas monkey,Erythrocebus,omni,Primates,lc,10.9,1.1,,13.1,0.115,10.0,2734.0,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus,patas,956.0,1400.0,167.0,162.0,1.0,1.0,357.0,504.5,1950.0,7750.0,,30.0,1306,captivity,medium,acceptable,,,5.958,3000.0,312.45,"36,195,420,434,455,467,671,679,680,681,1306"
+26,western american chipmunk,Eutamias,herbi,Rodentia,,14.9,,,9.1,,0.071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,domestic cat,Felis,carni,Carnivora,domesticated,12.5,3.2,0.416666667,11.5,0.0256,3.3,2109.0,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,catus,289.0,304.0,65.0,56.0,4.0,,,97.5,,3900.0,,30.0,,captivity,large,questionable,,,,,311.25,"120,121,122,123,124,125,434,551,709,715,1020,1308,1395"
+28,galago,Galago,omni,Primates,,9.8,1.1,0.55,14.2,0.005,0.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,giraffe,Giraffa,herbi,Artiodactyla,cd,1.9,0.4,,22.1,,899.995,2046.0,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Giraffa,camelopardalis,1278.0,1644.0,457.0,,1.0,0.5,620.0,58500.0,,800000.0,,39.5,671,captivity,large,high,,,,,310.25,"434,436,455,610,671,677,680,827,1035,1136,1351"
+30,pilot whale,Globicephalus,carni,Cetacea,cd,2.7,0.1,,21.35,,800.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,gray seal,Haliochoerus,carni,Carnivora,lc,6.2,1.5,,17.8,0.325,85.0,2222.0,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,grypus,1460.0,1887.0,240.0,19.0,1.0,0.9,365.0,14000.0,41450.0,268000.0,,42.9,671,captivity,medium,acceptable,,,,,,"434,441,443,455,538,573,610,671,676,680,817,1143"
+32,gray hyrax,Heterohyrax,herbi,Hyracoidea,lc,6.3,0.6,,17.7,0.01227,2.625,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,human,Homo,omni,Primates,,8.0,1.9,1.5,16.0,1.32,62.0,2789.0,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,sapiens,4745.0,5110.0,280.0,,1.0,0.3,639.0,3312.5,,62035.0,0.0005,122.5,29,captivity,huge,high,0.0002,8.0,82.78,70000.0,310.15,"2,13,14,29,30,31,36,58,59,65,75,76,110,111,121,125,134,189,217,253,254,255,256,325,331,405,434,436,455,465,467,607,715,731,742,798,841,899,975,976,981,1078,1103,1122,1123,1136,1150,1242,1274,1315"
+34,mongoose lemur,Lemur,herbi,Primates,vu,9.5,0.9,,14.5,,1.67,2809.0,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,mongoz,650.0,1065.0,120.0,,1.0,1.0,,62.0,,1555.0,,36.2,671,captivity,medium,acceptable,,,,,,"434,455,467,610,671,679,681,1301"
+35,african elephant,Loxodonta,herbi,Proboscidea,vu,3.3,,,20.7,5.712,6654.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,thick-tailed opposum,Lutreolina,carni,Didelphimorphia,lc,19.4,6.6,,4.6,,0.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,macaque,Macaca,omni,Primates,,10.1,1.2,0.75,13.9,0.179,6.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,mongolian gerbil,Meriones,herbi,Rodentia,lc,14.2,1.9,,9.8,,0.053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,golden hamster,Mesocricetus,herbi,Rodentia,en,14.3,3.1,0.2,9.7,0.001,0.12,2885.0,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Mesocricetus,auratus,48.0,48.0,16.0,20.0,9.0,3.0,,2.45,22.93,105.0,0.0574,3.9,671,captivity,medium,acceptable,,,0.69,108.2,311.25,"36,189,257,258,259,260,261,262,272,420,434,455,542,608,610,671,680,731,776,928,1334"
+40,vole ,Microtus,herbi,Rodentia,,12.8,,,11.2,,0.035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,house mouse,Mus,herbi,Rodentia,nt,12.5,1.4,0.183333333,11.5,0.0004,0.022,3063.0,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,42.0,42.0,19.0,,7.0,5.4,30.0,1.25,,20.5,0.0298,4.0,506,captivity,large,high,0.01,0.3,0.271,18.0,310.05,"2,11,13,14,36,51,53,59,69,110,217,248,272,305,309,310,311,312,315,325,326,331,403,404,405,429,434,436,441,455,478,506,534,567,603,606,607,610,680,715,731,738,742,754,776,777,786,857,912,917,926,953,966,975,981,1103,1136,1242,1314,1315,1334,1341,1342,1356"
+42,little brown bat,Myotis,insecti,Chiroptera,,19.9,2.0,0.2,4.1,0.00025,0.01,2404.0,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,lucifugus,210.0,210.0,55.0,25.0,1.0,1.0,365.0,1.96,,10.0,0.116,34.0,424,wild,medium,acceptable,,,0.051,5.8,305.15,"36,74,178,295,424,428,434,441,455,477,731,777,971,1051,1136"
+43,round-tailed muskrat,Neofiber,herbi,Rodentia,nt,14.6,,,9.4,,0.266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,slow loris,Nyctibeus,carni,Primates,,11.0,,,13.0,0.0125,1.4,2821.0,Animalia,Chordata,Mammalia,Primates,Lorisidae,Nycticebus,coucang,578.0,,188.0,177.0,1.0,1.0,492.0,48.2,520.0,890.5,,25.8,671,captivity,medium,acceptable,,,1.504,1128.6,308.55,"36,420,434,455,467,574,610,671,679,681,1301"
+45,degu,Octodon,herbi,Rodentia,lc,7.7,0.9,,16.3,,0.21,3106.0,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodon,degus,182.0,182.0,90.0,36.0,6.0,1.8,,14.0,71.2,235.0,0.0323,14.0,671,captivity,large,acceptable,,,0.958,199.6,310.75,"36,420,434,455,610,671,680,731"
+46,northern grasshopper mouse,Onychomys,carni,Rodentia,lc,14.5,,,9.5,,0.028,2910.0,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Onychomys,leucogaster,100.0,114.0,31.0,23.0,4.0,2.5,32.0,2.6,13.1,32.5,0.0634,5.6,671,captivity,tiny,acceptable,,,,,,"434,441,455,542,671,731,965"
+47,rabbit,Oryctolagus,herbi,Lagomorpha,domesticated,8.4,0.9,0.416666667,15.6,0.0121,2.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,sheep,Ovis,herbi,Artiodactyla,domesticated,3.8,0.6,,20.2,0.175,55.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,chimpanzee,Pan,omni,Primates,,9.7,1.4,1.416666667,14.3,0.44,52.2,2791.0,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes,3376.0,2920.0,229.0,1111.0,1.0,0.2,840.0,1821.0,8500.0,44983.5,0.0007,68.0,1324,captivity,large,acceptable,0.04,8.0,,,308.85,"8,59,72,73,234,235,236,237,238,239,256,323,434,436,455,463,467,505,535,574,590,607,610,671,676,679,680,681,731,736,752,753,834,837,842,844,846,853,854,862,866,871,877,899,976,1057,1078,1089,1091,1099,1116,1122,1123,1125,1131,1143,1150,1172,1173,1174,1213,1231,1232,1233,1236,1261,1280,1319,1320,1321,1322,1323,1324,1325"
+50,tiger,Panthera,carni,Carnivora,en,15.8,,,8.2,,162.564,2130.0,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,tigris,1268.0,1415.0,105.0,121.0,2.5,0.4,750.0,1190.0,11003.0,119700.0,,26.3,671,captivity,large,high,,,133.859,137900.0,310.65,"36,89,420,434,455,610,671,680,1136,1142"
+51,jaguar,Panthera,carni,Carnivora,nt,10.4,,,13.6,0.157,100.0,2128.0,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,onca,730.0,730.0,99.0,126.0,2.0,0.5,365.0,820.0,5033.5,81150.0,0.0072,28.0,671,captivity,large,high,,,62.419,50400.0,310.15,"36,89,420,434,455,610,671,680,731,817"
+52,lion,Panthera,carni,Carnivora,vu,13.5,,,10.5,,161.499,2127.0,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,leo,1095.0,1095.0,109.0,,3.0,1.0,649.0,1300.0,,175000.0,0.0035,28.0,1306,captivity,large,acceptable,,,94.58,98000.0,311.05,"36,162,420,434,455,514,610,671,680,731,1142,1143,1150,1306,1381"
+53,baboon,Papio,omni,Primates,,9.4,1.0,0.666666667,14.6,0.18,25.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,desert hedgehog,Paraechinus,,Erinaceomorpha,lc,10.3,2.7,,13.7,0.0024,0.55,2587.0,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Paraechinus,aethiopicus,,,37.0,50.0,3.0,1.0,,8.5,,188.0,,6.3,671,captivity,small,acceptable,,,0.63,451.5,307.35,"36,420,434,455,671,678,730,978"
+55,potto,Perodicticus,omni,Primates,lc,11.0,,,13.0,,1.1,2823.0,Animalia,Chordata,Mammalia,Primates,Lorisidae,Perodicticus,potto,547.0,547.0,170.0,,1.0,1.0,354.0,38.3,,919.9,0.0125,32.4,1301,captivity,small,acceptable,,,1.942,968.6,309.25,"36,41,164,420,434,436,455,467,610,671,679,680,681,731,978,1301"
+56,deer mouse,Peromyscus,,Rodentia,,11.5,,,12.5,,0.021,2917.0,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,maniculatus,49.0,,24.0,22.0,5.0,3.0,27.0,2.0,9.2,20.5,0.0643,8.3,434,captivity,medium,acceptable,,,0.219,20.5,309.75,"36,59,308,420,434,436,441,455,610,676,680,715,731,773,776,777,917,1136,1143"
+57,phalanger,Phalanger,,Diprotodontia,,13.7,1.8,,10.3,0.0114,1.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,caspian seal,Phoca,carni,Carnivora,vu,3.5,0.4,,20.5,,86.0,2235.0,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,caspica,2009.0,2191.0,330.0,30.0,1.0,,365.0,5000.0,,86000.0,,,,unknown,small,low,,,,,,"434,443,455,542,573,978"
+59,common porpoise,Phocoena,carni,Cetacea,vu,5.6,,,18.45,,53.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,potoroo,Potorous,herbi,Diprotodontia,,11.1,1.5,,12.9,,1.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,giant armadillo,Priodontes,insecti,Cingulata,en,18.1,6.1,,5.9,0.081,60.0,2444.0,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Priodontes,maximus,320.0,320.0,122.0,35.0,1.5,,,62.15,,33000.0,,15.0,671,captivity,small,acceptable,,,16.892,45190.0,306.75,"36,420,434,455,671"
+62,rock hyrax,Procavia,,Hyracoidea,lc,5.4,0.5,,18.6,0.021,3.6,2591.0,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Procavia,capensis,500.0,500.0,215.0,116.0,3.0,1.0,365.0,205.0,500.0,3600.0,0.0112,14.8,671,captivity,medium,acceptable,,,4.954,2458.0,310.15,"36,420,434,455,610,671,680,731,817,978,1136,1143"
+63,laboratory rat,Rattus,herbi,Rodentia,lc,13.0,2.4,0.183333333,11.0,0.0019,0.32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,african striped mouse,Rhabdomys,omni,Rodentia,,8.7,,,15.3,,0.044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,squirrel monkey,Saimiri,omni,Primates,,9.6,1.4,,14.4,0.02,0.743,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,eastern american mole,Scalopus,insecti,Soricomorpha,lc,8.4,2.1,0.166666667,15.6,0.0012,0.075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,cotton rat,Sigmodon,herbi,Rodentia,,11.3,1.1,0.15,12.7,0.00118,0.148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,mole rat,Spalax,,Rodentia,,10.6,2.4,,13.4,0.003,0.122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,arctic ground squirrel,Spermophilus,herbi,Rodentia,lc,16.6,,,7.4,0.0057,0.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,thirteen-lined ground squirrel,Spermophilus,herbi,Rodentia,lc,13.8,3.4,0.216666667,10.2,0.004,0.101,3136.0,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ictidomys,tridecemlineatus,354.0,225.0,28.0,33.0,7.0,1.2,,3.24,16.0,172.7,,7.9,671,captivity,small,acceptable,,,0.983,198.4,308.85,"36,420,455,542,610,671,680"
+71,golden-mantled ground squirrel,Spermophilus,herbi,Rodentia,lc,15.9,3.0,,8.1,,0.205,3122.0,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callospermophilus,lateralis,637.0,,30.0,37.0,5.12,0.94,,6.26,74.2,157.6,0.0411,10.4,671,captivity,small,acceptable,,,0.967,249.6,309.45,"36,420,455,610,633,671,676,680,731"
+72,musk shrew,Suncus,,Soricomorpha,,12.8,2.0,0.183333333,11.2,0.00033,0.048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,pig,Sus,omni,Artiodactyla,domesticated,9.1,2.4,0.5,14.9,0.18,86.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,short-nosed echidna,Tachyglossus,insecti,Monotremata,,8.6,,,15.4,0.025,4.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,eastern american chipmunk,Tamias,herbi,Rodentia,,15.8,,,8.2,,0.112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,brazilian tapir,Tapirus,herbi,Perissodactyla,vu,4.4,1.0,0.9,19.6,0.169,207.501,2651.0,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,terrestris,1095.0,1095.0,398.0,289.0,1.0,,,6000.0,86260.0,250000.0,,39.6,"John Gramieri, pers. comm.",captivity,large,high,,,,,309.65,"434,455,610,1052"
+77,tenrec,Tenrec,omni,Afrosoricida,,15.6,2.3,,8.4,0.0026,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,tree shrew,Tupaia,omni,Scandentia,,8.9,2.6,0.233333333,15.1,0.0025,0.104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,bottle-nosed dolphin,Tursiops,carni,Cetacea,,5.2,,,18.8,,173.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,genet,Genetta,carni,Carnivora,,6.3,1.3,,17.7,0.0175,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,arctic fox,Vulpes,carni,Carnivora,,12.5,,,11.5,0.0445,3.38,2095.0,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,lagopus,304.0,304.0,52.0,51.0,9.0,1.0,365.0,70.0,,5200.0,,16.3,671,captivity,medium,acceptable,,,7.665,3600.0,311.75,"36,420,434,455,610,671,676,680"
+82,red fox,Vulpes,carni,Carnivora,,9.8,2.4,0.35,14.2,0.0504,4.23,2100.0,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,vulpes,304.0,304.0,52.0,48.0,5.0,1.0,365.0,100.0,1397.0,4131.7,0.0177,21.3,671,captivity,medium,acceptable,,,13.731,4580.3,311.85,"36,420,434,455,671,730,731"
